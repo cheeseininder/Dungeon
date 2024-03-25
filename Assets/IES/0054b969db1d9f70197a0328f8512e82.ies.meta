@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: bdfb05b3e7c4825409738cd0ed76ffa6
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 9801397f829a1ed42984340315cbf362, type: 3}
+  iesMetaData:
+    FileFormatVersion: LM-63-1991
+    IESPhotometricType: Type C
+    IESMaximumIntensity: 3931.6
+    IESMaximumIntensityUnit: Candelas
+    Manufacturer: BEGA
+    LuminaireCatalogNumber: 
+    LuminaireDescription: 50790.1K3
+    LampCatalogNumber: LED  92,4W
+    LampDescription: 10800 lm,102 W
+    PrefabLightType: 0
+    SpotAngle: 120
+    iesSize: 128
+    ApplyLightAttenuation: 1
+    UseIESMaximumIntensity: 1
+    CookieCompression: 2
+    LightAimAxisRotation: -90

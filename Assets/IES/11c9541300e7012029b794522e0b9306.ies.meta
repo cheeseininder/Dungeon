@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 464f9c88004bdfc4295b491b3b742910
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 9801397f829a1ed42984340315cbf362, type: 3}
+  iesMetaData:
+    FileFormatVersion: LM-63-1995
+    IESPhotometricType: Type C
+    IESMaximumIntensity: 3140.4
+    IESMaximumIntensityUnit: Candelas
+    Manufacturer: BEGA Copyright LUMCat V
+    LuminaireCatalogNumber: 
+    LuminaireDescription: 24493K3 (Preliminary)
+    LampCatalogNumber: LED  31,6W
+    LampDescription: 4668 lm,35 W
+    PrefabLightType: 0
+    SpotAngle: 120
+    iesSize: 128
+    ApplyLightAttenuation: 1
+    UseIESMaximumIntensity: 1
+    CookieCompression: 2
+    LightAimAxisRotation: -90
